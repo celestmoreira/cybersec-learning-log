@@ -4,3 +4,4 @@
 ## 2026-04-10 - IT Basics, Binary Conversion, Abstraction, Computer Architecture - Google IT Professional Certificate
 ## 2026-04-10 - Basics of Python, how to download python, how to download an IDE, running 'Hello World' program in python file - Python Crash Course Book
 ## 2026-04-20 - Computer hardware & components - Google IT Certificate
+## 2026-04-20 - Intro to Cloud Computing - DataCamp
