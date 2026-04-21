@@ -6,3 +6,4 @@
 ## 2026-04-20 - Computer hardware & components - Google IT Certificate
 ## 2026-04-20 - Intro to Cloud Computing - DataCamp
 ## 2026-04-21 - How to download ubuntu server for IT Ticketing simulation
+## 2026-04-21 - Monitoring & Response - Networks Course, CSULB
